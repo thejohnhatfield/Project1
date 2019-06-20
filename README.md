@@ -1,5 +1,5 @@
 # Twitter Webscraping Tool
-IMPORTANT!
+-IMPORTANT!
 Install Beautiful Soup 4. This webscraping tool will not work without the installation.
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 How to install: Insert this line of code into your command line.
